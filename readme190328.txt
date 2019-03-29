@@ -2,3 +2,4 @@ test for git.
 test new function.
 fuck
 hello
+bug has been fixed
